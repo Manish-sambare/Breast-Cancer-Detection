@@ -1,8 +1,5 @@
-Here's the content formatted properly as a `README.md` file:
 
----
-
-# Breast Cancer Prediction 🩺
+# Breast Cancer Detection 🩺
 
 ## Project Overview
 This project focuses on building a binary classification model to detect breast cancer using the Wisconsin Breast Cancer dataset. The goal is to classify tumors as either malignant or benign using a Stochastic Gradient Descent (SGD) Classifier.
@@ -41,6 +38,3 @@ This project focuses on building a binary classification model to detect breast 
 ## Results
 The model successfully classifies breast cancer cases with high accuracy, making it a promising approach for early-stage detection.
 
----
-
-Copy this content into your `README.md` file, and it should be properly formatted. Let me know if you need any further adjustments!
